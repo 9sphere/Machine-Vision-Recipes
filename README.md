@@ -1,2 +1,2 @@
 # Machine-Vision-Recipes
-Contains different machine vision related recepies
+This is a notebook of my research and recipes for different machine vision applications. 
